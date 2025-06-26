@@ -19,6 +19,17 @@ object DataSource {
         Topic(R.string.music, 212, R.drawable.music),
         Topic(R.string.painting, 172, R.drawable.painting),
         Topic(R.string.photography, 321, R.drawable.photography),
-        Topic(R.string.tech, 118, R.drawable.tech)
+        Topic(R.string.tech, 118, R.drawable.tech),
+        Topic(R.string.math, 234, R.drawable.photography),
+        Topic(R.string.science, 198, R.drawable.painting),
+        Topic(R.string.history, 176, R.drawable.history),
+        Topic(R.string.language, 142, R.drawable.gaming),
+        Topic(R.string.engineering, 157, R.drawable.engineering),
+        Topic(R.string.psychology, 203, R.drawable.fashion),
+        Topic(R.string.chemistry, 191, R.drawable.design),
+        Topic(R.string.physics, 185, R.drawable.physics),
+        Topic(R.string.astronomy, 88, R.drawable.culinary),
+        Topic(R.string.writing, 263, R.drawable.architecture)
+
     )
 }

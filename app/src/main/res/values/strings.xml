@@ -14,4 +14,15 @@
     <string name="painting">Painting</string>
     <string name="photography">Photography</string>
     <string name="tech">Tech</string>
+    <string name="math">Math</string>
+    <string name="science">Science</string>
+    <string name="history">History</string>
+    <string name="language">Language</string>
+    <string name="engineering">Engineering</string>
+    <string name="psychology">Psychology</string>
+    <string name="chemistry">Chemistry</string>
+    <string name="physics">Physics</string>
+    <string name="astronomy">Astronomy</string>
+    <string name="writing">Writing</string>
+
 </resources>
